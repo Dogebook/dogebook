@@ -4,7 +4,8 @@
   "description": "ill do this later lol",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "yarn node .",
+    "format": "yarn prettier ."
   },
   "repository": {
     "type": "git",

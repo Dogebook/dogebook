@@ -1,0 +1,5 @@
+.gitignore
+.replit
+LICENSE
+.md
+node_modules/*
