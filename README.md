@@ -1,2 +1,32 @@
-# dogebook
-ill do this later lol
+<h2>dogeBook</h2>
+<img src="https://github.com/Dogebook/dogebook/raw/main/assets/img/dogebook.png" alt="dogeBook" width="250" align="right" />
+<p>
+🐕📚 very much code snippet webapp
+</p>
+<div>
+<img
+alt="Express"
+src="https://img.shields.io/github/package-json/dependency-version/dogebook/dogebook/express?style=for-the-badge&color=white&logo=express"/>
+<img
+alt="dotenv"
+src="https://img.shields.io/github/package-json/dependency-version/dogebook/dogebook/dotenv?color=ecd53f&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAACMVBMVEXs1T8AAACwdCKunTCBoDLs1T0AARB5OhNHaCggHQzEsTW7xjpEPhacjivg1T3s1T4RKhxGDguunS89DQrr0TgAARLk1T4AAAro1T63xjns1TwWNBzrzjhVEQ4AAQ2NUxqznTE1CgmIpDPGkCjowDXc1D3T1DzKzzvByzoAAhULHRkAARNkhi3qyTbs1TrSnyzGzzsZPB5ykTDSnyvRmyufYR2TWRodRR%2FitzHY1D09Yia8yzpsMBEdBQMMHAFRdCmvoi%2BrbiAWNB0qCQYtTSKrbh95ljGAQhQLHRiMSxa7gCXb0D1RdCqZrzWTqjV6mjHNmysMHAqUrzXXpS6SUxqxwjmaYR0AAhbP1DxOEA1igSysvTiluDdzOhLr0TnTpC0LHRvqyTcvVCQ7WyW2gCQvVCJriy%2BBoDPbuzcRKhsqRR8gHQS2rDXgwDgZPB%2B4njDMxzvCzzrRsjVBbSiijiznvDOXjS1LXB1HIQsRKh2unTFHaCaMSxkgTSGHoDPYqS6gtDfjvDKAmzKOqjSrcyHNmypykS%2BZWhvs1TncqS%2BhuDcyWyTXpS2ZWh0xNRRlLxA6NRrFyzvpxTW8hiZbgCzRzDzr0TwAAhi7xjg9YiW2rDa2wjndszA5VB5vSRVJbilrJRF0gSegaB50ljCutDKxeiM%2FaCbs1TteIw%2FYqS%2Fdri%2BRoTDIsTVHaCnEsTTKujlTeirrzjemvTjBiyjitzKlbSAdRSF6QhOwdCG1eiTfuzew8gN%2FAAADxklEQVR42uzBgQAAAACAoP2pF6kCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgJm1By%2FbfSAO4JO1bdu2bdvGzzafbdu2%2Fc8930xum%2BSuus0cLDKLz%2Bm0%2FRZrVW%2F8Yuyl5fcdfKrvP3fW%2FNMO2vrl01qN%2FXEAOPFjjeVnfwJefWX5m35nYM2qkdiqmURt50XQlOMly1I3APxOaP0KnPJupet%2FB60ZxM4mJNxL2xk8oYU4W5YcrL4iaUmgr8f%2BdH0HrCPERwchuV4yCMRjZx%2Foq4euBpabDCF5UkhmLG104UxWNF1tCDEbkp4jgbA7wUn9bEX4E%2Bw2G0JOyyBQgI1b2T7NYmry%2BkISeZ2dMkiAL%2B0r404WrhkA6XXl1rffePEgXydKIDBE%2B4ZHxJPVZQjEKXR52y5DBtmIfXHCyWpJMgbivjxIoLsEkhVJ%2B%2BY1kzVAV6pBCQhZDBFDoFa0R%2BNkBe9RBELiJJASbPsS2MpnE4P5EJxxASTsIG2bE0zWGKgCIR1iCCzwT544WU6D6kCixsWQhEratgWwsul3fwhSB0KKg%2FQQtHESlXcRE9cMggT%2BvMTOSlJF8PJDAGEjcGAKTpYvftMoSPDl3zw59Ue7rvPPv9hjqwDCRuAmzmQtgiEQcUWF6jo7tuPyv0KI93%2B06X86WzhZG9Yb4uSu67zPzH%2FwJhEE8jUhAMMkbkpzIS6wGQ9JdV4CCP7XuGNPM8FXCQhsw4YvRBAo1B3dduIlsCKQXZHsMUkA2U00yRq3UVqpGhB2SMheDgQjMG42gH2S4Gs8JJQHYa%2FzSBcfwkbg3I%2BztR%2FvJxkJOeDBq0OHuRA4EktwTgSQEsIEK3aywr0MhDiVi5s4EDhKaB1znORCwiqsrif7OVeXpl7qumj%2FS6dTzVwItFkdpYdo%2F1lDIe7Lg8A5Quv8BT4koZ4JylOj9GgcohQErhCsKh6EjcBjzGRdBbUgzKlbdO8QI3B4ED0%2FpqcoBoEemxCMwFHXIvHad%2BVFrGqtII7NtiDM6cYVb1ooB8GdWQTBCFzF3ntUDgLX5RB2P%2Bq1fHIDFITcvCWHYATG6jQaUr4CCNy2BbmDaxh8DYVE3b3nxq0HDyUQ7yIZBCMw1iMwGCKuGS8xBGb9xRCMwFjBT8yDhMsg8FQOwQiMocssiI8UEjYph2C4xOCrJASeiSEYgTFjqwuB53wI96z5IkRdCOZzPsTxJcFqArMg%2BFj3lQgC2VIIxLPP5w2DvJYa2Bc2FoS3QByjZYGQPULPw7v24FgAAAAAYJC%2F9SR2VgAAAAAMAhQsfQCgoLD7AAAAAElFTkSuQmCC&style=for-the-badge"
+/>
+<img
+alt="dogeBook"
+src="https://img.shields.io/github/package-json/v/dogebook/dogebook?label=dogebook&style=for-the-badge"
+/>
+<img
+alt="Prettier"
+src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge&logo=prettier&logoColor=f36cb0"
+/>
+<img 
+alt="Uses Badges"
+src="https://forthebadge.com/images/badges/uses-badges.svg"
+width="15.3%"
+/>
+<img 
+alt="Made with javascript"
+src="https://forthebadge.com/images/badges/made-with-javascript.svg"
+width="22.4%"
+/>
+</div>
